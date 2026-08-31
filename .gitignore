@@ -29,7 +29,3 @@ Thumbs.db
 
 # ---- 本地工具状态（可选，按需保留）----
 .claude/settings.local.json
-
-开发文档.md
-使用说明.md
-Git与GitHub使用指南.md
